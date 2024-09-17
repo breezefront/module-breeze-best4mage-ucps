@@ -11,7 +11,8 @@
                                 <item name="path" xsi:type="string">Best4Mage_UCPS/js/ucps-default</item>
                                 <item name="import" xsi:type="array">
                                     <item name="configurable" xsi:type="string">configurable</item>
-                                    <item name="price-utils" xsi:type="string">Magento_Catalog/js/price-utils</item>
+                                    <item name="priceUtils" xsi:type="string">Magento_Catalog/js/price-utils</item>
+                                    <item name="priceUtilsJs" xsi:type="string">Swissup_BreezeBest4MageUcps/js/price-utils</item>
                                 </item>
                             </item>
                         </item>
