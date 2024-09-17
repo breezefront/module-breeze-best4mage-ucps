@@ -8,7 +8,7 @@
                     <item name="dynamic" xsi:type="array">
                         <item name="items" xsi:type="array">
                             <item name="Best4Mage_UCPS/js/ucps-default" xsi:type="array">
-                                <item name="path" xsi:type="string">Swissup_BreezeBest4MageUcps/js/script</item>
+                                <item name="path" xsi:type="string">Swissup_BreezeBest4MageUcps/js/ucps-default</item>
                                 <item name="import" xsi:type="array">
                                     <item name="configurable" xsi:type="string">configurable</item>
                                 </item>
